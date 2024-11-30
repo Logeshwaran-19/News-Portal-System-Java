@@ -1,1 +1,2 @@
 # News-Portal-System-Java
+The News Portal System is a Java-based application designed to manage and categorize news articles with a user-friendly GUI. It features secure admin login, enabling authorized access to save, view, and filter articles by category. Articles are persistently stored in a text file for future retrieval and management. The system uses AWT components like `TextField`, `TextArea`, and `Choice` for input and interaction. This project demonstrates core Java concepts, including GUI design, file handling, and event-driven programming.
